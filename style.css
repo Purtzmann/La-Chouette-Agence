@@ -1029,6 +1029,11 @@ h4 {
         width: 180px;
         height: 320px;
     }
+    .portfolio{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
 }
 
 
