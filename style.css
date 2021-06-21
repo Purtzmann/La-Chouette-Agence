@@ -1036,6 +1036,9 @@ h4 {
     }
 }
 
+.row--background{
+    background-color: #973507;
+}
 
 
 @media (max-width: 400px) {
