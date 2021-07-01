@@ -18,8 +18,16 @@ a:hover {
     cursor: pointer;
 }
 
+button:focus{
+    border: 1px solid black;    
+}
+
+a:focus{
+    border: 1px solid black;
+}
+
 #page-loading-blocs-notifaction {
-    position: fixed;
+    position: fixed;                
     top: 0;
     bottom: 0;
     width: 100%;
@@ -1053,3 +1061,4 @@ h4 {
         text-align: center;
     }
 }
+
